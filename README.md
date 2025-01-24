@@ -1,7 +1,6 @@
 # Distributed Source Control System (SCS)
 
 ## Overview
-
 The **Distributed Source Control System (SCS)** is a lightweight version control tool inspired by Git. It demonstrates core version control concepts, such as initializing repositories, staging files, creating commits, branching, merging, and more.
 ---
 
