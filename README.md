@@ -2,8 +2,7 @@
 
 ## Overview
 
-The **Distributed Source Control System (SCS)** is a lightweight version control tool inspired by Git. It demonstrates core version control concepts, such as initializing repositories, staging files, creating commits, branching, merging, and more. This project was developed as part of the **Pesapal Junior Programmer Challenge 2024**, showcasing my problem-solving skills, technical understanding, and ability to design scalable, modular software.
-
+The **Distributed Source Control System (SCS)** is a lightweight version control tool inspired by Git. It demonstrates core version control concepts, such as initializing repositories, staging files, creating commits, branching, merging, and more.
 ---
 
 ## Problem Statement
@@ -147,7 +146,7 @@ Given more time, I would:
 
 ## About Me
 
-My name is **Jasper Munene**, and I’m passionate about solving complex problems through code. I built this project as part of the **Pesapal Junior Programmer Challenge 2024** to showcase my skills in software development, system design, and problem-solving. Feel free to reach out to me via [email](mailto:devjaspermunene@gmail.com).
+My name is **Jasper Munene**, and I’m passionate about solving complex problems through code. I built this project to showcase my skills in software development, system design, and problem-solving. Feel free to reach out to me via [email](mailto:devjaspermunene@gmail.com).
 
 ---
 
